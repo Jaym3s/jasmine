@@ -11,7 +11,7 @@ src_files:
   - 'core/Env.js'
   - 'core/JsApiReporter.js'
   - 'core/Matchers.js'
-  - 'core/mock-timeout.js'
+  - 'core/Clock.js'
   - 'core/MultiReporter.js'
   - 'core/NestedResults.js'
   - 'core/PrettyPrinter.js'
